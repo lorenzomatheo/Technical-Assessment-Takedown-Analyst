@@ -39,8 +39,8 @@ Siga os passos abaixo para configurar o ambiente:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/analisador-links-suspeitos.git
-   cd analisador-links-suspeitos
+   git clone https://github.com/lorenzomatheo/Technical-Assessment-Takedown-Analyst.git
+   cd Technical Assessment - Takedown Analyst
    ```
 
 2. Crie um ambiente virtual Python:
